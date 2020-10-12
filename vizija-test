@@ -1,0 +1,13 @@
+Rukovalac dokumetima (RuDok)
+•	Ideja Opsteg RuDok-a: - Dizajniranje platforme koja omogucava operativnu upotrebu sto razlicitijeg spektra dokumenata uz pomoc sto preglednijeg gui-ja za neiskusne korisnike.
+•	Ciljna grupa: - Organizacije, firme, pojedinci kao i svaka platforma kojoj je potrebna organizacija dokumenata ili baza podataka za rad. Cilj je da se olaksa racunarski rad sa dokumentima za sve kupce i korisnike naseg softvera – pogotovo radnike koji nisu iskusni u radu sa racunarima kako bi se tranzicija u digitalnu organizaciju informacija olaksala kao i upravljanje njima.  Zelimo da svaki korisnik nezavisno od svog nivoa znanja oseca lagodno pri koriscenju, novim korisnicima da sto lakse nauce osnove, a ekspertima sto vise mogucnosti kojim raspolazu. Lako koriscenje i kompleksnost ali ne i komplikovanost.
+•	Osnovne Funkcionalnosti: 
+o	Upravljanje Dokumentima -  Trajno cuvanje dokumenata, definisanje, opisivanje, menjanje, duplikacije i upotreba;
+o	Upravljanje Kolekcijama dokumenata – Slobodno formiranje radnog prostora pa ukusu i potrebi korisnika; 
+o	Upravljanje radnim prostorom – Mogucnost razmestaja i estetskog namestanja radnog prostora kao i radnih podprostora funkcionalnih alatki;
+o	Prenos dokumenata – Sloboda deljenja dokumenata medju kolekcijama kao i stranica pa i delova stranica medju razlicitim dokumentima ili/i stranicama
+o	Podesavanje slobodnih parametara – Mogucnost podesavanja i izmene karakteristika komponenti
+•	Unikatnost na trzistu: - Postoji dosta slicnih alata danas ali oni postoje jako dugo tako da je nasa prednost modernizovan i svez dizajn kao i pristup daljem razvitku (open-source).
+•	Dostupnost: - Sira publika je prioritet tako da na pocetku bismo dali pristup svim znatizeljnim kupcima besplatno kao investicija za buducu saradnju nakon izgradnje imena dok ce premium kupci imati dostupan redovan “Customer Support” kao i pristup “Tutorialima”.
+•	Razvitak: - Developerska i korisnicka saradnja kroz open-source mentalitet moze dovesti softver do svakog operativnog sistema, a samim tim i do svakog poslovnog kao i privatnog racunara, sto jednostavniji i diskretniji dizajn uz sto siri maksimum mogucnosti zbog stepena kompleksnosti bez zalazenja u komplikaciju.
+•	Moto: - “Minimalizmom do maksimalnih mogucnosti”
